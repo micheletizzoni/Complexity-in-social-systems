@@ -1,4 +1,4 @@
-# Dynamical processes on networks
+# Epidemic spreading
 
 Notebooks of the lectures of May 25, 2018.
 
