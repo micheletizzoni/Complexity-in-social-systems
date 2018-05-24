@@ -1,6 +1,6 @@
 # Dynamical processes on networks
 
-Notebooks of the lectures of June 14 2017.
+Notebooks of the lectures of May 25, 2018.
 
 Lecture topics:
   - the SIR model
