@@ -1,3 +1,4 @@
+id code city lat lon
 29 ABE Allentown 40.654722 -75.438333
 30 ABI Abilene 32.409444 -99.679722
 32 ABQ Albuquerque 35.041667 -106.606389
