@@ -1,6 +1,6 @@
 # Visualization of geospatial information
 
-Notebooks of the lecture of June 1, 2018 by Prof. (Rossano Schifanella)[http://www.di.unito.it/~schifane/].
+Notebooks of the lecture of June 1, 2018 by Prof. [Rossano Schifanella](http://www.di.unito.it/~schifane/).
 
 Lecture topics:
 - introduction to cartography
