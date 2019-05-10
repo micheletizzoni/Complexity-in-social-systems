@@ -1,6 +1,6 @@
 # Introduction to NetworkX
 
-Notebooks of the lectures of May 9-16, 2018.
+Notebooks of the lectures of May 10-15, 2019.
 
 Lecture topics:
   - introduction to NetworkX
