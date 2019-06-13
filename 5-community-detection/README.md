@@ -1,6 +1,6 @@
 # Clustering in networks
 
-Notebooks of the lecture of June 8 2018.
+Notebooks of the lecture of June 12 2019.
 
 Lecture topics:
   - the Girvan-Newman algorithm for clustering
