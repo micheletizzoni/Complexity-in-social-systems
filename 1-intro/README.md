@@ -1,5 +1,5 @@
 # Introduction to Python
-Notebooks of the lecture of May 8, 2019.
+Notebooks of the first week of online lectures.
 
 Lecture topics:
   - introduction to Python e Jupyter notebook
