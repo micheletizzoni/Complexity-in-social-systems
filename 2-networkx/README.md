@@ -1,6 +1,6 @@
 # Introduction to NetworkX
 
-Notebooks of the lectures of May 2020.
+Notebooks of the lectures of May 2021.
 
 Lecture topics:
   - introduction to NetworkX
